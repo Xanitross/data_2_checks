@@ -1,1 +1,1 @@
-# data_2_checks
+# Knowledge Checks for Data Analysis 2
